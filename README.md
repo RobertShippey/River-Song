@@ -13,7 +13,7 @@ Originally based on [willbrooks' timeline](http://willbrooks.deviantart.com/art/
 ### Melody Pond #
 
  * A Good Man Goes to War
- * The Impossible Astronaught
+ * The Impossible Astronaut
  * Day of the Moon
 
 ### Mels #
@@ -29,12 +29,12 @@ Originally based on [willbrooks' timeline](http://willbrooks.deviantart.com/art/
  * "Picnic at Asgard"
  * "Winter Frost Fair"
  * A Good Man Goes to War
- * The Impossible Astronaught
+ * The Impossible Astronaut
  * Day of the Moon
  * The Pandorica Opens
  * The Big Bang
  * The Time of Angels
- * Flesh and Stong
+ * Flesh and Stone
  * Last Night
  * Silence in the Library
  * Forest of the Dead
